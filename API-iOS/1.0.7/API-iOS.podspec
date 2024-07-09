@@ -25,7 +25,6 @@ s.source = { :git => "https://github.com/awasthi027/api-ios.git",
 
 s.source_files  = "API-iOS/**/*.{h,m,c,swift}"
 
-
 # 9
 #s.resources = "API-iOS/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
